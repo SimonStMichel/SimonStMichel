@@ -1,6 +1,5 @@
 # Hi there, I'm Simon 👋 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonStMichel&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+I'm a fullstack web developper and aspiring software engineer
 
 ### Languages and Tools:
 
